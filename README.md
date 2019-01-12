@@ -9,8 +9,6 @@ Supervisor - engineer of the NIISI RAS Zotov Y.A.
 
 Stupino branch of the MAI, department "System modeling and information technology"
 
-romanov0168@gmail.com
-
 The modern simplified name of the “text quest” game genre is derived from the English “interactive fiction”, which literally is an interactive fiction. Such literary works allow the reader to participate in the formation of the plot. On paper, such literature began to appear in the 1950s, first for educational purposes and then artistic and entertaining. Currently, it is called books-games (from the English. Gamebook). That book-games, at one time, became the prototype of computer text quests.
 
 Text quests can be effective for students, and, last but not least, fascinating practice in language learning. They allow you to use in the development of the game a lot of operators to work with numbers, text, graphics, etc. Also, they can be a good starting point in the truly immense world of modern programming and really major developments.
