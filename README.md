@@ -1,7 +1,6 @@
 # prog-time-voyage
 Project - text quest in Python
 
-
 Python text quest development
 
 Romanov A.O.
